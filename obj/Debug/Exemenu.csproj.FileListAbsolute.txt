@@ -1,0 +1,13 @@
+H:\www\POO\Exemenu\Exemenu\bin\Debug\Exemenu.exe.config
+H:\www\POO\Exemenu\Exemenu\bin\Debug\Exemenu.exe
+H:\www\POO\Exemenu\Exemenu\bin\Debug\Exemenu.pdb
+H:\www\POO\Exemenu\Exemenu\obj\Debug\Exemenu.csproj.AssemblyReference.cache
+H:\www\POO\Exemenu\Exemenu\obj\Debug\Exemenu.csproj.SuggestedBindingRedirects.cache
+H:\www\POO\Exemenu\Exemenu\obj\Debug\Exemenu.FrmAzul.resources
+H:\www\POO\Exemenu\Exemenu\obj\Debug\Exemenu.Properties.Resources.resources
+H:\www\POO\Exemenu\Exemenu\obj\Debug\Exemenu.csproj.GenerateResource.cache
+H:\www\POO\Exemenu\Exemenu\obj\Debug\Exemenu.csproj.CoreCompileInputs.cache
+H:\www\POO\Exemenu\Exemenu\obj\Debug\Exemenu.exe
+H:\www\POO\Exemenu\Exemenu\obj\Debug\Exemenu.pdb
+H:\www\POO\Exemenu\Exemenu\obj\Debug\Exemenu.FrmAmarelo.resources
+H:\www\POO\Exemenu\Exemenu\obj\Debug\Exemenu.FrmVermelho.resources
